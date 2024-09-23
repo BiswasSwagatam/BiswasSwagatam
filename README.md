@@ -13,7 +13,7 @@
 
 - 💬 Ask me about AI, OpenCV, Reinforcement learning, PC hardware, Anime, CS:GO  
 
-- 📫 How to reach me: contact me directly on: swagatam.04.biswas@gmail.com & my resume: [portfolio link](https://drive.google.com/file/d/1AbP3S4ED7d26_oupv9i8sptTHVo58XTV/view?usp=sharing)
+- 📫 How to reach me: contact me directly on: swagatam.04.biswas@gmail.com & my resume: [portfolio link](https://swag-portfolio.netlify.app/)
 
 - :heart: love playing guitar, love riding and travelling, gamer, otaku
 
